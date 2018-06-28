@@ -1,0 +1,45 @@
+.header-container {
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 2vw;
+}
+
+.logo-container {
+  width: 10vw;
+  margin: 0vw 8vw 0vw 3vw;
+}
+
+.menu-container {
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+}
+
+.icon-container {
+  width: 15vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-group-item {
+  font-size: 1.75vw;
+  color: #2979FF;
+  margin: 0vw 0.75vw;
+}
+
+.menu-list {
+  margin: 0vw 3vw;
+  cursor: pointer;
+  color: #2979FF;
+  padding: 0vw 1vw;
+}
+
+.menu-list:hover {
+  font-weight: bold;
+}
+/* 
+.header-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+} */
