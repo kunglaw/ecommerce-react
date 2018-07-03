@@ -7,12 +7,16 @@
 .logo-container {
   width: 10vw;
   margin: 0vw 8vw 0vw 3vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .menu-container {
   width: 80vw;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .icon-container {
