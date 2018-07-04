@@ -1,10 +1,23 @@
 .galery-card-container {
   width: 100%;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-image: url('https://ae01.alicdn.com/kf/HTB1IR2FSXXXXXccXVXXq6xXFXXX9/White-Wood-Texture-Backgrounds-Vinyl-cloth-High-quality-Computer-printed-party-photo-backdrop.jpg_640x640.jpg')
 }
 
 .galery-card {
-  height: 10vw;
-  width: 10vw;
-  border: 1px solid green;
+  height: 12vw;
+  width: 12vw;
+  margin: 1vw 3vw;
+  padding: 1vw;
+  transition-delay: 1ms;
+  transition-duration: 1s;
+  background-color: aliceblue;
+}
+
+.galery-card:hover {
+  transform: rotate(5deg);
+  background-color: #00B0FF;
 }
