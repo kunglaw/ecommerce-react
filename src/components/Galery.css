@@ -1,0 +1,10 @@
+.galery-card-container {
+  width: 100%;
+  display: flex;
+}
+
+.galery-card {
+  height: 10vw;
+  width: 10vw;
+  border: 1px solid green;
+}

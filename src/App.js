@@ -5,6 +5,7 @@ import NavbarHeader from './components/NavbarHeader';
 import Advertisement from './components/Advertisement';
 import Destination from './components/Destination'
 import Footer from './components/Footer'
+import Galery from './components/Galery'
 
 class App extends Component {
   render() {
@@ -17,6 +18,9 @@ class App extends Component {
         <Advertisement />
         <section id = "destination-container">
           <Destination />
+        </section>
+        <section id = "galery-container" >
+          <Galery />
         </section>
         <div id = "footer-container">
           <Footer />
