@@ -15,9 +15,11 @@
   transition-delay: 1ms;
   transition-duration: 1s;
   background-color: aliceblue;
+  opacity: 0.6;
 }
 
 .galery-card:hover {
   transform: rotate(5deg);
   background-color: #00B0FF;
+  opacity: 1;
 }

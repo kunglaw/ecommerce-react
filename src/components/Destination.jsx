@@ -19,14 +19,14 @@ class Destination extends Component {
             <div className="travel-card">
               <img src="http://mediad.publicbroadcasting.net/p/kplu/files/styles/x_large/public/201612/Gfp-southern-wisconsin-further-roadway-scenery-at-sunset.jpg" alt="second-image" />
               <div className="card-description">
-                <h2>Mountain</h2>
+                <h2>Sea</h2>
                 <p> the natural features of a landscape considered in terms of their appearance, especially when picturesque.</p>
               </div>
             </div>
             <div className="travel-card">
               <img src="https://www.greattibettour.com/photos/20170607/tibet-nepal-nature-scenery-tour-45072.jpg" alt="third-image"/>
               <div className="card-description">
-                <h2>Mountain</h2>
+                <h2>Beach</h2>
                 <p> the natural features of a landscape considered in terms of their appearance, especially when picturesque. </p>
               </div>
             </div>
