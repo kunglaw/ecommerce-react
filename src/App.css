@@ -41,6 +41,12 @@
   width: 100%;
 }
 
+#survey-container {
+  width: 100%;
+  height: 50vw;
+  margin-top: 5vw;
+}
+
 #testimony-container {
   width: 100%;
   height: 40vw;

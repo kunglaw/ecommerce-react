@@ -26,9 +26,9 @@ class NavbarHeader extends Component {
           </div>
         </div>
         <div className = "icon-container">
-          <a href="#" class="list-group-item"><i class="fa fa-user fa-fw"></i></a>
-          <a href="#" class="list-group-item"><i class="fa fa-shopping-cart fa-fw"></i></a>
-          <a href="#" class="list-group-item"><i class="fa fa-home fa-fw"></i></a>
+          <a href="#" className="list-group-item"><i className="fa fa-user fa-fw"></i></a>
+          <a href="#" className="list-group-item"><i className="fa fa-shopping-cart fa-fw"></i></a>
+          <a href="#" className="list-group-item"><i className="fa fa-home fa-fw"></i></a>
         </div>
       </div>
     );

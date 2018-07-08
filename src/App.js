@@ -6,6 +6,7 @@ import Advertisement from './components/Advertisement';
 import Destination from './components/Destination'
 import Footer from './components/Footer'
 import Galery from './components/Galery'
+import Survey from './components/Survey'
 import Testimony from './components/Testimony'
 
 class App extends Component {
@@ -22,6 +23,9 @@ class App extends Component {
         </section>
         <section id = "galery-container" >
           <Galery />
+        </section>
+        <section id = "survey-container">
+          <Survey />
         </section>
         <section id = "testimony-container" >
           <Testimony />
